@@ -41,7 +41,7 @@ section {
 	overflow: auto;
 }
 
-#chicken {
+#samosa {
 	border: 1px solid black;
 	text-align: center;
 	width: 30%;
@@ -85,7 +85,7 @@ section {
 	padding: 5px;
 }
 
-#chicken-div {
+#samosa-div {
   margin-bottom: 10px;
   margin-top: 10px;
 }
